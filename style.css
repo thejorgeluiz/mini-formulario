@@ -1,0 +1,25 @@
+body {
+    background-color: #bab9b1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    background-color: #32595f;
+    color: aliceblue;
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px  black;
+}
+.custom-btn {
+    background-color:#7d3b54;
+    color: antiquewhite;
+    border: 1px solid black;
+}
+.custom-btn:hover {
+    background-color:#5b2d3f;
+}
